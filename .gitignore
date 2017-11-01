@@ -1,0 +1,10 @@
+/silverstripe-cache/
+/.env
+/vendor/
+/themes/simple/
+/resources/
+/themes/default/images/
+/themes/default/video/
+/themes/default/bower_components/
+/.idea/
+/assets/

@@ -1,0 +1,23 @@
+{
+  "name": "vulcan",
+  "authors": [
+    "zanderwar <reece.alexander@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "Proprietary",
+  "homepage": "vulcandigital.co.nz",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "wow": "^1.1.2",
+    "vide": "^0.5.1"
+  }
+}
